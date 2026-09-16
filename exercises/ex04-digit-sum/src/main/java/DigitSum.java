@@ -28,6 +28,8 @@ public class DigitSum {
 //        }
 //        return sum;
         // This solution is kinda funky, I don't like it very much.
+        // Just realized upon rereading the exercise instructions this isn't even a
+        // valid solution lol.
 
         int num = Math.abs(n);
         int sum = 0;
